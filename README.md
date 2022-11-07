@@ -7,6 +7,12 @@
 - Selecting the "Search Within Solution" item will make the files in the solution selected.
 
 
+## Search Within Solution (in Japanese)
+
+- Visual Studio の機能拡張
+- 開いているドキュメントタブの右クリックメニューに「Search within Solution」を追加しています。
+- 「Search within Solution」を選択すると、ソリューショ内の対応したドキュメントが選択されます。フォルダ内にある場合はフォルダが展開されます。
+
 ## usage
 
 "Search within Solution" item has been added to the context menu of the Document tab.
@@ -38,6 +44,7 @@ Selecting the "Search within Solution" item will make the corresponding document
 
 ## History
 
-- for VS2022 (2022/11/07)
+### ver1.0 (2022/11/07)
+- for VS2022 
 
 
