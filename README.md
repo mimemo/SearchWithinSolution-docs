@@ -44,6 +44,9 @@ Selecting the "Search within Solution" item will make the corresponding document
 
 ## History
 
+### ver1.1 (2022/11/09)
+- support Arm64 VS2022 
+
 ### ver1.0 (2022/11/07)
 - for VS2022 
 
